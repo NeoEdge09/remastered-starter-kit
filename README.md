@@ -1,34 +1,11 @@
 # Laravel 12 + Inertia + Vue 3 Starter Kit (Remastered)
 
-A production-ready, enterprise-grade boilerplate built on top of Laravel, Inertia.js, and Vue 3. Designed to jumpstart robust applications with strictly typed code, advanced permission handling, and standardized data table workflows.
-
-## 🚀 Key Features
-
-- **Security & Auth**: Laravel Breeze + role-based access control (RBAC).
-- **Auto-Permission Middleware**: Zero-config permission handling. Routes are scanned and mapped to permissions automatically.
-- **Dynamic Navigation**: Database-driven menu builder with drag-and-drop reordering and granular permission filtering.
-- **Standardized Data Tables**: Plug-and-play backend trait and frontend composable for search, sort, filters, and pagination.
-- **Activity Logging**: Integrated audit trails for all model actions and auth events.
-- **Developer Experience**:
-    - Full TypeScript support with Ziggy for typed routes.
-    - Shadcn-style UI components (Radix Vue + Tailwind).
-    - Dark mode support (System/Light/Dark).
-    - Command-line optimized (`concurrently` dev server).
-
-## 🛠 Tech Stack
-
-- **Backend**: Laravel 12, Spatie Permission, Spatie Activitylog.
-- **Frontend**: Vue 3 (Composition API), Inertia.js, TypeScript, Tailwind CSS.
-- **Tools**: Vite, ESLint, Prettier, Pest PHP.
-
----
-
 ## 📦 Installation
 
 1.  **Clone the repository**
 
     ```bash
-    git clone https://github.com/yourusername/laravel-inertia-vue-remastered.git
+    git clone https://github.com/NeoEdge09/remastered-starter-kit.git
     cd laravel-inertia-vue-remastered
     ```
 
